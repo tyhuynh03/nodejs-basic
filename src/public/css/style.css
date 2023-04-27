@@ -70,3 +70,9 @@ body {
     border-radius: 5px;
     /* thay đổi giá trị này để thay đổi bán kính bo tròn */
 }
+
+/* thêm hiệu ứng hover khi trỏ chuột tới */
+.styled-table tbody tr:hover {
+    background-color: #555;
+    color: white;
+}
